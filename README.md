@@ -3,9 +3,9 @@ Given a start and end position, the board size, and the ability to move like a t
 
 The board will be size <i>n</i> by <i>n</i> where <i>n</i> is specified by the program user. For example, if <i>n = 4</i>:
 
-|| 0 || 1 || 2 || 3 ||
-|| 4 || 5 || 6 || 7 ||
-|| 8 || 9 || 10|| 11||
+|| 0 || 1 || 2 || 3 ||<br>
+|| 4 || 5 || 6 || 7 ||<br>
+|| 8 || 9 || 10|| 11||<br>
 || 12|| 13|| 14|| 15||
 
 Where it would take one move to get from location 0 to location 9 or from location 0 to location 6, for instance.
